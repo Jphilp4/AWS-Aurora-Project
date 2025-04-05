@@ -37,5 +37,5 @@ For a detailed walkthrough, check out my process documentation here: [[legendary
 
 ---
 
-## Hashtags  
+##  
 #AWS #AWSCloud #AmazonAurora #DatabaseManagement #LearningInPublic #LearningJourney #NextWork
